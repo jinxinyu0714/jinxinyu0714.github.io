@@ -23,10 +23,6 @@ Log repair method based on process trace similarity using large language models<
 __Xinyu Jin__, Shuangyao Zhao\*, Binbin Chen  
 _Computer Integrated Manufacturing Systems (In Chinese)_ 
 
-CAT-NeRF: Constancy-Aware Tx2Former for Dynamic Body Modeling<br>
-Haidong Zhu, Zhaoheng Zheng, __Wanrong Zheng__, and Ram Nevatia  
-_CVPR Workshop 2023_ [\[Paper\]](https://arxiv.org/abs/2304.07915)[\[Code\]](https://github.com/haidongz-usc/CAT-NeRF)[\[Supp\]](https://zoeyzheng0.github.io/images/paper/zju_mocap.mp4) 
-
 
 ## Research Experience
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
