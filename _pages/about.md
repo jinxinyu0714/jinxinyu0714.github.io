@@ -25,10 +25,9 @@ _Computer Integrated Manufacturing Systems (In Chinese)_
 
 
 ## Research Experience
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60">
-[iLab](http://ilab.usc.edu/), USC, Los Angeles, CA <br/>
-Research Assistant. Jan. 2022 – Present <br/>
-Advisor: Prof. [Laurent Itti](http://ilab.usc.edu/itti/)
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/chery.png" width="60">
+Chery Automobile Co., Ltd., Anhui,  CHN <br/>
+Autonomous Generative Design and Closed-Loop Optimization Tool Prototype for Multimodal Input. 2025 – Present <br/>
 
 <img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
 
