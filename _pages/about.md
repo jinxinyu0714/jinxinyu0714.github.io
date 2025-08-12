@@ -26,28 +26,31 @@ _Computer Integrated Manufacturing Systems (In Chinese)_
 
 ## Research Experience
 <img style="float: right;" src="https://jinxinyu0714.github.io/images/chery.jpg" width="60">
+
 Chery Automobile Co., Ltd., Anhui,  CHN <br/>
-Autonomous Generative Design and Closed-Loop Optimization Tool Prototype for Multimodal Input. 2025 – Present <br/>
+Autonomous Generative Design and Closed-Loop Optimization Tool Prototype for Multimodal Input. <br/>
+2025 – Present 
 
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/USC.png" width="60" >
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/aecc.png" width="60" >
 
-[IRIS Computer Vision Lab](https://sites.usc.edu/iris-cvlab/), USC, Los Angeles, CA <br/>
-Research Assistant. Jan. 2022 – May. 2024 <br/>
-Advisor: Prof. [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/)
+Aero Engine Co., Ltd., Shenyang, CHN <br/>
+Group unified control integrated project management platform <br/>
+Aug. 2024 - Dec. 2024
 
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/sensetime.png" width="60">
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/aecc.png" width="60">
 
-[SenseTime](https://www.sensetime.com/en), China <br/>
-Research Engineer. Sep. 2019 – Aug. 2021 <br/>
-Advisor: Dr. [Xiaoke Jiang](https://scholar.google.com/citations?user=aDf9fpkAAAAJ&hl=en) and Dr. [Yichao Wu](https://scholar.google.com/citations?user=20Its9kAAAAJ&hl=en)
+Aero Engine Co., Ltd., Sichuan, CHN <br/>
+Automated document formatting software <br/>
+Apr. 2024 - Jul. 2024
 
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/siat-logo.png" width="60">
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/satae_grad.jpeg" width="60">
 
-[Chinese Academy of Sciences](https://english.cas.cn/), China <br/>
-Research Assistant. Jul. 2018 – Jun. 2019 <br/>
-Advisor: Dr. [Qiong Wang](https://dblp.org/pid/65/3144-1.html)
+State Grid Anhui Electric Power Research Institute, Anhui, CHN <br/>
+Fault Diagnosis System Development <br/>
+Dec. 2023 - Oct. 2024
 
-<img style="float: right;" src="https://zoeyzheng0.github.io/images/cuhkri.png" width="60">
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/cms.png" width="60">
 
-[Shenzhen Research Institute](https://www.cuhkri.org.cn/en.html), the Chinese University of Hong Kong, China <br/>
-Research Intern. Dec. 2017 – Jun. 2018 <br/>
+China Manned Space Engineering Office, Beijing, CHN <br/>
+Decision support system for space station operational planning <br/>
+Sep. 2023 - Apr. 2024
