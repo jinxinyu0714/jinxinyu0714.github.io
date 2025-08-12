@@ -43,7 +43,7 @@ Aero Engine Co., Ltd., Sichuan, CHN <br/>
 Automated document formatting software <br/>
 Apr. 2024 - Jul. 2024
 
-<img style="float: right;" src="https://jinxinyu0714.github.io/images/satae_grad.jpeg" width="60">
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/state_grad.jpeg" width="60">
 
 State Grid Anhui Electric Power Research Institute, Anhui, CHN <br/>
 Fault Diagnosis System Development <br/>
