@@ -25,7 +25,7 @@ _Computer Integrated Manufacturing Systems (In Chinese)_
 
 
 ## Research Experience
-<img style="float: right;" src="https://jinxinyu0714.github.io/images/chery.png" width="60">
+<img style="float: right;" src="https://jinxinyu0714.github.io/images/chery.jpg" width="60">
 Chery Automobile Co., Ltd., Anhui,  CHN <br/>
 Autonomous Generative Design and Closed-Loop Optimization Tool Prototype for Multimodal Input. 2025 – Present <br/>
 
